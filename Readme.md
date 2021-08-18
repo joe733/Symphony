@@ -17,3 +17,6 @@ Learning music...
 > ♮ music natural sign
 >  
 > ♯ music sharp sign
+
+###Source for Learning Materials
+- [All the basic piano chords in one epic tutorial > 20 minutes](https://www.youtube.com/watch?v=C1i-cFx7__M)
