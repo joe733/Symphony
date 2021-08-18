@@ -65,7 +65,9 @@
   - e.g. `Em6 = E  + G + B[C C#] C# = E G B C`
 
 > Psst..
+>  
 > Major Third + Minor Third = Simple Major
+>  
 > Minor Third + Major Third = Simple Minor
 
 ---
