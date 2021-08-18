@@ -32,7 +32,7 @@
 
 - **Simple Major (X)** = Major Third + Minor Third
   - e.g. `C = C[C# D D# E] + E[F F# G] + G = C D G`
-- **Simple Major (Xm)** = Minor Third + Major Third
+- **Simple Minor (Xm)** = Minor Third + Major Third
   - e.g. Cm = `C[C# D D#] + D#[E F F# G] + G = C D# G`
   
 ## 3. The Seventh `X7, Xm7, Xmaj7/XM7`
@@ -51,3 +51,23 @@
 
 - **Major-Seventh Chord (XM7)** = Major Third + Minor Third + Major Third
   - e.g. `Bmaj7 = B[C C# D D#] + D#[E F F#] + F#[G G# A Bb] + Bb = B D# F# Bb`
+
+## 4. The Sixth `X6, Xm6`
+
+### 4.1 The Major Sixth Chord `X6`
+
+- **Major Sixth Chord (X6)** = Major Third + Minor Third + Two Notes
+  - e.g. `F6 = F  + A + C[C# D] D = F A C D`
+
+### 4.1 The Minor Sixth Chord `Xm6`
+
+- **Minor Sixth Chord (Xm6)** = Minor Third + Major Third + Two Notes
+  - e.g. `Em6 = E  + G + B[C C#] C# = E G B C`
+
+> Psst..
+> Major Third + Minor Third = Simple Major
+> Minor Third + Major Third = Simple Minor
+
+---
+
+> Remaining chords to be re-visited: X9, Xmaj9, Xadd9, Xsus, Xsus4, Xdim, Xdim7, Xaug
