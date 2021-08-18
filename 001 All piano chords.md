@@ -35,7 +35,7 @@
 - **Simple Major (Xm)** = Minor Third + Major Third
   - e.g. Cm = `C[C# D D#] + D#[E F F# G] + G = C D# G`
   
-## 3. The Seventh `X7, Xm7`
+## 3. The Seventh `X7, Xm7, Xmaj7/XM7`
 
 ### 3.1 Dominant-Seventh Chord `X7`
 
@@ -44,5 +44,10 @@
 
 ### 3.2 The Minor Seventh Chord `Xm7`
 
-- **Minor-Seventh Chord (Xmin7)** = Minor Third + Major Third + Minor Third
+- **Minor-Seventh Chord (Xm7)** = Minor Third + Major Third + Minor Third
   - e.g. `Dm7 = D[D# E F] + F[F# G G# A] + A[Bb B C] + C = D F A C`
+
+### 3.3 The Major Seventh Chord `Xmaj7` / `XM7`
+
+- **Major-Seventh Chord (XM7)** = Major Third + Minor Third + Major Third
+  - e.g. `Bmaj7 = B[C C# D D#] + D#[E F F#] + F#[G G# A Bb] + Bb = B D# F# Bb`
