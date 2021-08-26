@@ -28,47 +28,43 @@
 - But we need not stick to that key/note ordering. For example: A chord of C could be _any combination_ of any number (> 1) of's _C's_, _D's_ and _E's_.
 - The differnce in ordering of the notes causes voicing and inversions.
 
-## 2. Simple Major Chords `X, Xm`
+## 2. Basic Chords
+
+### 2.1 Simple Major Chords `X, Xm`
 
 - **Simple Major (X)** = Major Third + Minor Third
   - e.g. `C = C[C# D D# E] + E[F F# G] + G = C D G`
 - **Simple Minor (Xm)** = Minor Third + Major Third
   - e.g. Cm = `C[C# D D#] + D#[E F F# G] + G = C D# G`
   
-## 3. The Seventh `X7, Xm7, Xmaj7/XM7`
+### 2.2 The Seventh `X7, Xm7, Xmaj7/XM7`
 
-### 3.1 Dominant-Seventh Chord `X7`
+#### 2.2.1 Dominant-Seventh Chord `X7`
 
-- **Dominant-Seventh Chord (X7)** = Major Third + Minor Third + Minor Third
+- **Dominant-Seventh Chord (X7)** = Simple Major + Minor Third
   - e.g. `G7 = G[G# A Bb B] + B[C C# D] + D[D# E F] + F = G B D F`
 
-### 3.2 The Minor Seventh Chord `Xm7`
+#### 2.2.2 The Minor Seventh Chord `Xm7`
 
-- **Minor-Seventh Chord (Xm7)** = Minor Third + Major Third + Minor Third
+- **Minor-Seventh Chord (Xm7)** = Simple Minor + Minor Third
   - e.g. `Dm7 = D[D# E F] + F[F# G G# A] + A[Bb B C] + C = D F A C`
 
-### 3.3 The Major Seventh Chord `Xmaj7` / `XM7`
+#### 2.2.3 The Major Seventh Chord `Xmaj7` / `XM7`
 
-- **Major-Seventh Chord (XM7)** = Major Third + Minor Third + Major Third
+- **Major-Seventh Chord (XM7)** = Simple Major + Major Third
   - e.g. `Bmaj7 = B[C C# D D#] + D#[E F F#] + F#[G G# A Bb] + Bb = B D# F# Bb`
 
-## 4. The Sixth `X6, Xm6`
+### 2.3 The Sixth `X6, Xm6`
 
-### 4.1 The Major Sixth Chord `X6`
+#### 2.3.1 The Major Sixth Chord `X6`
 
-- **Major Sixth Chord (X6)** = Major Third + Minor Third + Two Notes
+- **Major Sixth Chord (X6)** = Simple Major + Two Notes
   - e.g. `F6 = F  + A + C[C# D] D = F A C D`
 
-### 4.1 The Minor Sixth Chord `Xm6`
+#### 2.3.2 The Minor Sixth Chord `Xm6`
 
-- **Minor Sixth Chord (Xm6)** = Minor Third + Major Third + Two Notes
+- **Minor Sixth Chord (Xm6)** = Simple Minor + Two Notes
   - e.g. `Em6 = E  + G + B[C C#] C# = E G B C`
-
-> Psst..
->  
-> Major Third + Minor Third = Simple Major
->  
-> Minor Third + Major Third = Simple Minor
 
 ---
 
