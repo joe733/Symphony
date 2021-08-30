@@ -67,10 +67,10 @@
 | Key | Dominant Seventh | Major Seventh | Minor Seventh |
 | --- | ---------------- | ------------- | ------------- |
 | `C` | `C E G A#`       | `C E G B`     | `C Eb G Bb`   |
-| `D` | `D F# A C`       | `D F# A B`    | `D F A C`     |
-| `E` | `E G# B D`       | `E G# B Db`   | `E G B D`     |
+| `D` | `D F# A C`       | `D F# A C#`   | `D F A C`     |
+| `E` | `E G# B D`       | `E G# B D#`   | `E G B D`     |
 | `F` | `F A C D#`       | `F A C E`     | `F Ab B Eb`   |
-| `G` | `G B D F`        | `G B D F`     | `G Bb D F`    |
+| `G` | `G B D F`        | `G B D F#`    | `G Bb D F`    |
 | `A` | `A C# E G`       | `A C# E G#`   | `A C E G`     |
 | `B` | `B D# F# A`      | `B D# F# A#`  | `B D F# A`    |
 
