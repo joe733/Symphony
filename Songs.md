@@ -4,7 +4,7 @@ List of Songs with derived chord
 
 ## 1. This old man
 
-```text
+```txt
 C
 This old man, he plays one
 
