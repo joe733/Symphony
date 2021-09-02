@@ -8,12 +8,13 @@ List of Songs with derived chord
 C
 This old man, he plays one
 
-Dm/F                 G
-He plays knick knack on my thumb
+Dm/F                 G7
+He plays knick knack on my thumb, With a 
 
-C
-With a knick knack paddy wack
+
+knick knack paddy wack
 
 Give a dog a bone
+
 This old man comes rolling home
 ```
