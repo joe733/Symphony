@@ -2,19 +2,19 @@
 
 ## 1. Finding the songs' key [1:50](https://www.youtube.com/watch?v=ilcfgQ3lZus&t=110s)
 
-- Easiest way is to look at the note where the melody ends. (`C` in ![yt_favicon](https://www.youtube.com/s/desktop/e9a67dcd/img/favicon.ico)  [This old man](https://youtu.be/v0_iIpfdTXw)) That will be *tonic*, *note* that the *key* is named after.
+- Easiest way is to look at the note where the melody ends. (`C` in case of ![yt_favicon](https://www.youtube.com/s/desktop/e9a67dcd/img/favicon.ico)  [This old man](https://youtu.be/v0_iIpfdTXw)) That note will be *tonic* - *note* that the *key* is named after.
 
-> Bright sounds with major key, dark sounds with minor keys.
+> Major keys have bright sounds, and minor keys have dark sounds.
 
-- "This old man" uses exlusively the notes of `Cmaj` scale.
+- "This old man" uses exlusively the notes of `C` scale.
 
-- It tells that the _first_ chord (**tonic chord**)that the melody starts with is usually the same chord (here `C`)
+- It also tells that the _first_ chord (**tonic chord**) that the melody starts with is usually the same note that the melody ends with (here `C`).
 
-> That may not always the case but it works.
+> That may not always the case but it works most of the time.
 
-- Chances are most of the cord are **diatonic chords** (chords that are built on the first / *tonic* chord).
+- Chances are most of the cord are from the list of **diatonic chords** (chords that are built on the first / *tonic* chord).
 
-> In case of `C` its `Dm`, `Em`, `F`, `G` and `Am` & `Bdim` are a possibility to be the first chord.
+> In case of `C` the possibilies are `Dm`, `Em`, `F`, `G` and `Am` & `Bdim`.
 
 - Some of them might be extenstion like `G7` or `FM7`.
 
