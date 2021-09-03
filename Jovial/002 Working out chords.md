@@ -27,16 +27,14 @@
 
 - It's easy to get a chord notes to find where the chord sits relative to song's beat.
 
-> Lets consider "This old man" in the 4 beats. [quick_demo](https://youtu.be/ilcfgQ3lZus?list=PLpOuhygfD7QmXR6JEBHlScLaQzcu1qjej&t=367)
+> Lets consider "*This old man*" in the 4 beats. [Listen](https://youtu.be/ilcfgQ3lZus?list=PLpOuhygfD7QmXR6JEBHlScLaQzcu1qjej&t=367).
 
-- In a 4 beat bar, stronger beats are 1 & 3 also called the *on-beats* and weaker notes aka. *off-beats* i.e. 2 & 4.
+- In a 4 beat bar, stronger beats are 1 & 3 also called the **on-beats** and weaker notes aka. **off-beats** i.e. 2 & 4.
 - We're more likely to find chord notes on on-beats (stressed) and passing notes on off-beats (un-stressed).
 
-- In the linke "He plays knick knack", the on-keys are `F` & `A`, hence `Fmaj` / `Dm` both of which are okay.
+- In the linke "*He plays knick knack*", the on-keys are `F` & `A`, hence we can play `F` / `Dm` chord, both of which sounds okay. Following "*on my thumb*" is a rise / tension.
 
-- Following "on my thumb" which is a rise / tension.
-
-- When there's a tension in the melody, after which we're about to go back to the first chord. Hence we can drop in a `G7` which kind of pulls us back to a starting chord.
+- When there's a tension in the melody, indicating that we're about to return to the first chord, we can drop in a `G7` which kind of pulls us back to a starting chord.
 
 ## 3. How chord progressions works [10:08](https://www.youtube.com/watch?v=ilcfgQ3lZus&t=608s)
 
