@@ -8,7 +8,7 @@ List of Songs with derived chord
 C
 This old man, he plays one
 
-Dm/F                 G7
+F        Dm          G7
 He plays knick knack on my thumb, With a 
 
 
