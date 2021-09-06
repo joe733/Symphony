@@ -42,14 +42,29 @@
 - The second most important number is `5` chord - aka. **dominant** chord, because it resolves strongly to the tonic. Which means in the key of `C` when we play `G` it wants to drag us back to `C`, the tonic.
 - Dominant sevent's chord (e.g. `G7` in the key of `C`) is stronger (than `G` in the key of `C`).
 - These tend to appear at the points of maximum tension in a melody.
-- The journey from `1` and to `5` chord are very common in chord progressions. (There are execptions to this, but it will work in most cases)
+- The journey from `1` and to `5` chord are very common in chord progressions. (There are execptions to this, but it will work in most cases) They can act as tent poles for the chords.
 
-- There are also common combinations of chords (e.g. `2`, `5`, `1` `Dm`, `G`, `C` in the key of `C`).
+- There are also pther common combinations of chords (e.g. `2`, `5`, `1` `Dm`, `G`, `C` in the key of `C`).
 - Instead of learning all the existing pattern, try to derive them from the melodies that we already know.
 
 ## 4. Verify, the derived the chords [16:01](https://www.youtube.com/watch?v=ilcfgQ3lZus&t=961s)
 
-- Use your ear to check if it sounds right.
-- If there are alternetives try them as well
+- Use your ear to check if it sounds right. If there are alternetives play them as well.
+- Cross check with existing songs. If you're creating your own music, bring out that artistic sense.
+- In the first like of "This old man, he plays one", we could be a little more creative by bringing in the `Em` chord right after the tonic, int the 3rd / on-beat. Hence the progression:
+
+```txt
+C             Em
+This old man, he plays one
+
+F        Dm          G7
+He plays knick knack on my thumb, With a
+```
+
+## 5. Check for complications and exceptions [17:50](https://www.youtube.com/watch?v=ilcfgQ3lZus&t=1070s)
+
+- The actual chords would be more developed and extended than the basic underlying chord. Eg. `G` was extended to `G7` in "This Old Man".
+- To be handle this is, one needs to be really familiar which chord is being played when they hear them. Therefore practice lots of other songs.
+- 
 
 > .. **To be continued** ..
