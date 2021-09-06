@@ -17,20 +17,26 @@ List of Songs with derived chord
     <td><a href="Songs/../ThisOldMan">This Old Man</a></td>
     <td>
 <pre>
-C
-This old man, he plays one,
-Dm/F                 G7
-He plays knick knack on my thumb, With a
+C             Em
+This old man, he plays one
 
+F        Dm          G7
+He plays knick knack on my thumb, With a 
+
+C
 knick knack paddy wack,
 
+G
 Give a dog a bone,
 
-This old man comes rolling home.
+Em
+This old man comes
+
+rolling home
 </pre>
     </td>
     <td>
-        <img src="Songs/../ThisOldMan/thisoldman_sheetmusic_png_file.png" alt="tom_sm" width="350"/>
+        <img src="Songs/../ThisOldMan/thisoldman_sheetmusic_png_file.png" alt="tom_sm" width="500"/>
     </td>
 </tr>
 
