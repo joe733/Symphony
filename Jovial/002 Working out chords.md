@@ -69,7 +69,7 @@ He plays knick knack on my thumb, With a
 
 ### 5.1 Dealing with non-diatonic chords
 
-- Occationally one will come across chords that are outside the chords of the key, i.e. not based upon tonic chords/diatonic chords. E.g. in the key of `C`, `Eb` `F#` are non-diatonic chord.
+- Occationally one will come across chords that are outside the chords of the key, i.e. not based upon tonic chords/diatonic chords. E.g. in the key of `C`, `Eb` & `F#` are non-diatonic chord.
 - They are reasonably easy to spot, because they are like a quick bump on a smooth line.
 - When melody does not start with tonic chord, and similar ones like there's a bridge in the song which switches over from major to minor.
 
