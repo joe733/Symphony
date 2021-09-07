@@ -65,6 +65,16 @@ He plays knick knack on my thumb, With a
 
 - The actual chords would be more developed and extended than the basic underlying chord. Eg. `G` was extended to `G7` in "This Old Man".
 - To be handle this is, one needs to be really familiar which chord is being played when they hear them. Therefore practice lots of other songs.
-- 
+- Put chord extension and try harmonizing more songs, play around with them to the point of recognizing them instantly.
 
-> .. **To be continued** ..
+### 5.1 Dealing with non-diatonic chords
+
+- Occationally one will come across chords that are outside the chords of the key, i.e. not based upon tonic chords/diatonic chords. E.g. in the key of `C`, `Eb` `F#` are non-diatonic chord.
+- They are reasonably easy to spot, because they are like a quick bump on a smooth line.
+- When melody does not start with tonic chord, and similar ones like there's a bridge in the song which switches over from major to minor.
+
+### 5.2 Antisipations and Suspensions
+
+- We can learn to spot them as we grow in experience. They are important and stressed notes, that don't seem to belong to the chord underneath them.
+  - Suspension: They're a hangover from the chord before.
+  - Antisipation: They're a part of the chord that's about to arrive.
