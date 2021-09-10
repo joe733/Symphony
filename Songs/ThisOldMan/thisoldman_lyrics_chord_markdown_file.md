@@ -1,8 +1,4 @@
-# Song List
-
-List of Songs with derived chord
-
-## 1. This old man
+# This old man
 
 ```txt
 C             Em
