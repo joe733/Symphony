@@ -32,10 +32,10 @@ Twinkle, twinkle,	little star,
 G				C
 How I wonder	what you are.
 
-Dm				C
+Dm				G
 Up above the	world so high,
 
-Dm				C
+Dm				G
 Like a diamond	in the sky.
 
 C					F
