@@ -21,7 +21,7 @@ C             Em
 This old man, he plays one
 
 F        Dm          G7
-He plays knick knack on my thumb, With a 
+He plays knick knack on my thumb, With a
 
 C
 knick knack paddy wack,
