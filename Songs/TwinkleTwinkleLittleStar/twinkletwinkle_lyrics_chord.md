@@ -1,6 +1,5 @@
 # Twinkle Twinkle Little Star
 
-
 ## V1
 
 ```txt
@@ -26,21 +25,21 @@ How I wonder what you are!
 ## V2
 
 ```txt
-C					F
-Twinkle, twinkle,	little star,
+C                 F
+Twinkle, twinkle, little star,
 
-G				C
-How I wonder	what you are.
+G            C
+How I wonder what you are.
 
-Dm				G
-Up above the	world so high,
+Dm           G
+Up above the world so high,
 
-Dm				G
-Like a diamond	in the sky.
+Dm             G
+Like a diamond in the sky.
 
-C					F
-Twinkle, twinkle,	little star,
+C                 F
+Twinkle, twinkle, little star,
 
-G				C
-How I wonder	what you are!
+G            C
+How I wonder what you are!
 ```
